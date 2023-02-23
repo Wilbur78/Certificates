@@ -1,7 +1,7 @@
 # Certificates & Current Learning Commitments
 Tracking my learning progress as I transition into the fields of Deep Learning and Data Analytics. 
 
-More projects from the last couple of months will be uploaded in the coming weeks. You will also be able to find some of these projects in the 'Portfolio' section on my website in the near future (www.willhardy.co).
+More projects from the last couple of months will be uploaded in the coming weeks. You will also be able to find some of these projects in the 'Portfolio' section on my website in the near future (www.willhardy.co) [COMING SOON].
 
 To date, I have finished the following courses since late December, 2022:
 1) Zero to Mastery (ZTM) AI & Data Science Bootcamp
