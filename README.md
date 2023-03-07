@@ -7,7 +7,7 @@ To date, I have finished the following courses since late December, 2022:
 1) Zero to Mastery (ZTM) AI & Data Science Bootcamp
 2) ZTM TensorFlow Developer Certificate
 3) Deeplearning.ai TensorFlow Developer
-4) Courses 1, 2 and 3 of Deeplearning.ai's Deep Learning Specialization (with Andrew Ng)
+4) Courses 1-4 of Deeplearning.ai's Deep Learning Specialization (with Andrew Ng) (currently working through course 5)
 
 In addition to the Deeplearning.ai Specialization, I am also regularly engaged in the following:
 - Rounding out my Python skills with the ZTM Complete Python Developer in 2023 course
